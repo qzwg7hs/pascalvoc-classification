@@ -37,5 +37,5 @@ Final project for the **Yessenov Data Lab 2025**: transforming a multi-label obj
 
 ## Team: Tassay aka MARS
 
-- Makhmud, Aruay, Ruana, Sanzhar
+- Makhmud Assentay, Aruay Amangeldi, Ruana Saduakas, Sanzhar Sagandyk
 
